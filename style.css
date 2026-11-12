@@ -4,7 +4,7 @@ text-decoration-line: none;
     padding: 0px;
 }
 .section{
-    background-image: url( image.jvg);
+    background-image: url( images.jvg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
