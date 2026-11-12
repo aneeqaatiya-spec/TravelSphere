@@ -12,16 +12,15 @@ text-decoration-line: none;
 }
     .navbar{
         color: white;
-        justify-content: space-around;
         align-items: center;
-        margin-left: 90px;
         margin-top: 20px;
         font-size: 23px;
-        gap:none;
+        text-align: center;
         display: flex;
         font-weight: bolder;
         padding-bottom: 20px;
-        align-items: center;
+        margin-left: 100px;
+        
     /* height: 80vh; */
     /* width:80vw ; */
 
