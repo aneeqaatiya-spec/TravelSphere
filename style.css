@@ -45,7 +45,7 @@ text-decoration-line: none;
         align-items: center;
         margin-left: 90px;
         margin-top: 20px;
-        font-size: 27px;
+        font-size: 23px;
         gap:none;
 
     }
@@ -55,7 +55,7 @@ text-decoration-line: none;
         color: white;
         border-radius: 30px;
         padding: 10px;
-        margin-left: 140px;
+        margin-right: 140px;
         margin-top:30px ;
         font-size: 22px;
         border: none;
@@ -70,7 +70,7 @@ text-decoration-line: none;
     }
     .ul{
         display: flex;
-        color: white;
+        color: #4287f5;
         font-size: 25px ;
 
         /* justify-content: space-evenly; */
