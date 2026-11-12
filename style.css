@@ -11,7 +11,13 @@ text-decoration-line: none;
 
 }
     .navbar{
-        color: blue;
+        color: white;
+        justify-content: space-around;
+        align-items: center;
+        margin-left: 90px;
+        margin-top: 20px;
+        font-size: 23px;
+        gap:none;
         display: flex;
         font-weight: bolder;
         padding-bottom: 20px;
@@ -39,16 +45,26 @@ text-decoration-line: none;
     font-size: larger;
 
     }
-    .link{
-        color: white;
-        justify-content: space-around;
-        align-items: center;
-        margin-left: 90px;
-        margin-top: 20px;
-        font-size: 23px;
-        gap:none;
 
+#home{
+        color: white;
     }
+    #About{
+        color: white;
+    }
+    #Destination{
+        color: white;
+    }
+    #Blog{
+        color: white;
+    }
+    #Contact{
+        color: white;
+    }
+
+
+
+
 
     button{
         background-color: #4287f5;
