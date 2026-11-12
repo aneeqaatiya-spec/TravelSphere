@@ -20,6 +20,7 @@ text-decoration-line: none;
         font-weight: bolder;
         padding-bottom: 20px;
         margin-left: 100px;
+        justify-content: space-betwwen
         
     /* height: 80vh; */
     /* width:80vw ; */
@@ -50,6 +51,7 @@ text-decoration-line: none;
     }
     #About{
         color: white;
+        
     }
     #Destination{
         color: white;
