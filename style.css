@@ -32,7 +32,9 @@ text-decoration-line: none;
         margin-top: 20px;
         font-size: 22px;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-    }
+    } 
+.link{
+    justify-content:space-between;
     #next{
         color: #4287f5;
         font-weight: bolder;
